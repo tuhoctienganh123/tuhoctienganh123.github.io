@@ -2,7 +2,7 @@
 layout: home
 
 title: Hi :D
-description: I'm Kei. This is my personal blog.<br> I use this website to share my humble coding knowledge.<br> My tutorials aim to help Beginners and Non-Coders who want to learn coding from scratch.
+description: Nhận dậy gia sư tiếng Anh lớp 10, 11, 12<br>Liên hệ 098.66.77.99.3<br>Anh Thịnh
 author: Kei Nart
-keywords: web development, beginner, non-coder, keinart, free, tutorial, coding, programming, codenart, html, css, bootstrap, javascript, jquery, jekyll
+keywords: tự học tiếng anh, gia sư tiếng anh
 ---

@@ -1,45 +1,21 @@
 {
    "categories" : [
       {
-         "id"    : "html",
-         "url"   : "/html/",
-         "title" : "Html"
+         "id"    : "vocabulary",
+         "url"   : "/vocabulary/",
+         "title" : "Từ Vựng"
       },
 
       {
-         "id"    : "css",
-         "url"   : "/css/",
-         "title" : "Css"
+         "id"    : "grammar",
+         "url"   : "/grammar/",
+         "title" : "Ngữ Pháp"
       },
 
       {
-         "id"    : "bootstrap",
-         "url"   : "/bootstrap/",
-         "title" : "Bootstrap"
-      },
-
-      {
-         "id"    : "javascript",
-         "url"   : "/javascript/",
-         "title" : "JavaScript"
-      },
-
-      {
-         "id"    : "jquery",
-         "url"   : "/jquery/",
-         "title" : "jQuery"
-      },
-
-      {
-         "id"    : "jekyll",
-         "url"   : "/jekyll/",
-         "title" : "Jekyll"
-      },
-
-      {
-         "id"    : "sample",
-         "url"   : "/sample/",
-         "title" : "Sample"
+         "id"    : "certification",
+         "url"   : "/certification/",
+         "title" : "Chứng Nhận"
       }
    ]
 }

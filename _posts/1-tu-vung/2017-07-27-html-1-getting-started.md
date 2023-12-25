@@ -21,7 +21,7 @@ thì bạn không cần phải quá bận tâm về ngữ pháp.
 
 Bài viết này sẽ liệt kê nhóm từ vựng về chủ đề gia đình trong số 3000 từ vựng phổ biến.
 
-## 34 từ vựng về các thành viên trong gia đình bằng tiếng Anh
+## 1. 34 từ vựng về các thành viên trong gia đình bằng tiếng Anh
 
 - Father /ˈfɑːðə(r)/: bố
 - Mother /ˈmʌðə(r)/: Mẹ

@@ -15,7 +15,7 @@ keywords: tự học tiếng anh, gia sư tiếng anh, từ vựng phổ biến,
 date: 2017-07-27 05:05:00
 ---
 
-Nhắc tới chủ đề thời tiết trong tiếng Anh, hẳn ai trong chúng ta cũng nghĩ ngay tới những từ cơ bản như “sunny” (nắng), “rainy” (mưa), “hot" (nóng), “cold" (lạnh),... Tuy nhiên, để tự tin hơn trong giao tiếp cũng như phục vụ cho các bài thi chuẩn hoá như IELTS, TOEFL, tại sao bạn không tham khảo ngay bộ từ vựng về thời tiết tiếng Anh dưới đây để khiến bạn bè xung quanh “trầm trồ" một phen. Cùng Langmaster bắt đầu ngay nhé!
+Nhắc tới chủ đề thời tiết trong tiếng Anh, hẳn ai trong chúng ta cũng nghĩ ngay tới những từ cơ bản như “sunny” (nắng), “rainy” (mưa), “hot" (nóng), “cold" (lạnh),... Tuy nhiên, để tự tin hơn trong giao tiếp cũng như phục vụ cho các bài thi chuẩn hoá như IELTS, TOEFL, tại sao bạn không tham khảo ngay bộ từ vựng về thời tiết tiếng Anh dưới đây để khiến bạn bè xung quanh “trầm trồ" một phen.
 
 ## 1. 50+ từ vựng về thời tiết trong tiếng Anh thường xuyên được sử dụng nhất
 

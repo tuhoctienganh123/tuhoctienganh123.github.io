@@ -8,7 +8,7 @@ featured:
 permalink:
 
 title: 3000 từ vựng phổ biến (phần 5)
-short: About Character
+short: Tính cách
 description: Nhận dậy gia sư tiếng anh lớp 10, 11, 12<br>Liên hệ 098.66.77.99.3<br>Anh Thịnh
 keywords: tự học tiếng anh, gia sư tiếng anh, từ vựng phổ biến, tính cách, vocabulary, character
 

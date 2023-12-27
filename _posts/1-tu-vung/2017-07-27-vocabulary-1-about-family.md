@@ -8,7 +8,7 @@ featured: bingo
 permalink: /begin/
 
 title: 3000 từ vựng phổ biến (phần 1)
-short: About Family
+short: Gia đình
 description: Nhận dậy gia sư tiếng anh lớp 10, 11, 12<br>Liên hệ 098.66.77.99.3<br>Anh Thịnh
 keywords: tự học tiếng anh, gia sư tiếng anh, từ vựng phổ biến, gia đình, vocabulary, family
 

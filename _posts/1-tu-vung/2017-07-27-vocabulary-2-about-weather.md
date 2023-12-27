@@ -8,7 +8,7 @@ featured:
 permalink:
 
 title: 3000 từ vựng phổ biến (phần 2)
-short: About Weather
+short: Thời tiết
 description: Nhận dậy gia sư tiếng Anh lớp 10, 11, 12<br>Liên hệ 098.66.77.99.3<br>Anh Thịnh
 keywords: tự học tiếng anh, gia sư tiếng anh, từ vựng phổ biến, thời tiết, vocabulary, weather
 

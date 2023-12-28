@@ -31,3 +31,18 @@ Thêm vào đó, tại Việt Nam có rất nhiều công ty công nghệ của 
 
 - Operating system /ˈɑː.pə.reɪ.t̬ɪŋ ˌsɪs.təm/: hệ điều hành
 - Multi-user /ˈmʌltiˌjuːzər/: Đa người dùng
+- Alphanumeric data  /ˌæl.fə.njuːˈmer.ɪk/: Dữ liệu chữ số, dữ liệu cấu thành các chữ cái và bất kỳ chữ số từ 0 đến 9
+- Point-to-Point Protocol (PPP): Đây là một giao thức kết nối Internet tin cậy thông qua Modem
+- Authority work /əˈθɔːr.ə.t̬i/: Công tác biên mục (tạo ra các điểm truy cập) đối với tên, tựa đề hay chủ đề; riêng đối với biên mục tên và nhan đề, quá trình này bao gồm xác định tất cả các tên hay tựa đề và liên kết các tên/tựa đề không được chọn với tên/tựa đề được chọn làm điểm truy dụng. Đôi khi quá trình này cũng bao gồm liên kết tên và tựa đề với nhau.
+- Alphabetical catalog /ˌæl.fəˈbet̬.ɪ.kəl ˈkæt.əl.ɒɡ// : Mục lục xếp theo trật tự chữ cái
+- Broad classification /brɑːd ˌklæs.ə.fəˈkeɪ.ʃən/: Phân loại tổng quát
+- Cluster controller /ˈklʌs.tɚ kənˈtroʊ.lɚ/: Bộ điều khiển trùm
+- Gateway /ˈɡeɪtweɪ/: Cổng kết nối Internet cho những mạng lớn
+- Open System Interconnection (OSI) hay còn gọi là mô hình chuẩn OSI
+- Packet /ˈpæk.ɪt/: Gói dữ liệu
+- Source Code /ˈsɔːrs ˌkoʊd/: Mã nguồn (của của file hay một chương trình nào đó)
+- Port /pɔːt/: Cổng
+- Cataloging /ˈkæt.əl.ɒɡ/: Công tác biên mục. Nếu làm trong các tổ chức phi lợi nhuận thì gọi là cataloging, nếu làm vì mục đích thương mại thì gọi là indexing
+- Subject entry – thẻ chủ đề: công cụ truy cập thông qua chủ đề của ấn phẩm
+- Chief source of information: Nguồn thông tin chính. Dùng tạo ra phần mô tả của một biểu ghi thay thế như trang bìa sách, hình nhan đề phim hoạt hình hay nhãn băng đĩa.
+- Remote Access /rɪˈmoʊt ˈæk.ses/ Truy cập từ xa qua mạng

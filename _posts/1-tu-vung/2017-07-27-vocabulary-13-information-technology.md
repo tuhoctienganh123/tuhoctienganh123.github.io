@@ -46,3 +46,112 @@ Thêm vào đó, tại Việt Nam có rất nhiều công ty công nghệ của 
 - Subject entry – thẻ chủ đề: công cụ truy cập thông qua chủ đề của ấn phẩm
 - Chief source of information: Nguồn thông tin chính. Dùng tạo ra phần mô tả của một biểu ghi thay thế như trang bìa sách, hình nhan đề phim hoạt hình hay nhãn băng đĩa.
 - Remote Access /rɪˈmoʊt ˈæk.ses/ Truy cập từ xa qua mạng
+
+## 3.Từ vựng tiếng Anh chuyên ngành công nghệ thông tin
+
+- Multiplication / mʌltɪplɪˈkeɪʃən/: Phép nhân
+- Numeric /nju(ː)ˈmɛrɪk/: Số học, thuộc về số học
+- Operation /ɒpəˈreɪʃən/: Thao tác
+- Output /ˈaʊtpʊt/: Ra, đưa ra
+- Perform /pəˈfɔːm/: Tiến hành, thi hành
+- Process /ˈprəʊsɛs/: Xử lý
+- Processor /ˈprəʊsɛsə/: Bộ xử lý
+- Pulse /pʌls/: Xung
+- Register /ˈrɛʤɪstə/: Thanh ghi, đăng ký
+- Signal /ˈsɪgnl/: Tín hiệu
+- Solution /səˈluːʃən/: Giải pháp, lời giải
+- Store /stɔː/: Lưu trữ
+- Subtraction /səbˈtrækʃən/: Phép trừ
+- Switch /swɪʧ/: Chuyển
+- Terminal  /ˈtɝː.mə.nəl/ : Máy trạm
+- Transmit /trænsˈmɪt/: Truyền
+- Abacus  /ˈæb.ə.kəs/: Bàn tính
+- Allocate  /ˈæl.ə.keɪt/: Phân phối
+- Analog /ˈæn.ə.lɒɡ/: Tương tự
+- Application  /ˌæp.ləˈkeɪ.ʃən/: Ứng dụng
+- Binary /ˈbaɪ.ner.i/: Nhị phân, thuộc về nhị phân
+- Devise /dɪˈvaɪz/: Phát minh
+- Digital /ˈdɪdʒ.ə.t̬əl/: Số, thuộc về số
+- Etch  /etʃ/: Khắc axit
+- Experiment /ɪkˈsper.ə.mənt/: Tiến hành thí nghiệm, cuộc thí nghiệm
+- Remote Access: Truy cập từ xa qua mạng
+- Computerized /kəmˈpjuː.t̬ə.raɪzd/: Tin học hóa
+- Storage /ˈstɔːr.ɪdʒ/: lưu trữ
+- Mainframe computer: Máy tính lớn
+- Consist (of) /kənˈsɪst əv, ˌʌv, ˌɑv/: Bao gồm
+- Convert /kənˈvɝːt/: Chuyển đổi
+- Equipment  /ɪˈkwɪp.mənt/: Trang thiết bị
+- Multiplexer  /ˈmʌltiˌpleksər/: Bộ dồn kênh
+- Network /ˈnet.wɝːk/: Mạng
+- Peripheral /pəˈrɪf.ɚ.əl/: Ngoại vi
+- Reliability  /rɪˌlaɪ.əˈbɪl.ə.t̬i/: Sự có thể tin cậy được
+- Single-purpose: Đơn mục đích
+- Teleconference /ˈtel.əˌkɑːn.fɚ.əns/: Hội thảo từ xa
+- Multi-task /ˌmʌl.tiˈtæsk/: Đa nhiệm
+- Arithmetic  /əˈrɪθ.mə.tɪk/: Số học
+- Microprocessor /ˌmaɪkrəʊˈprəʊsesə(r)/: bộ vi xử lý
+- Memory /ˈmeməri/: bộ nhớ
+- Operationˌ/ɒpəˈreɪʃn/: thao tác
+- Storage /ˈstɔːrɪdʒ/: lưu trữ
+- Graphics /ˈɡræfɪks/: đồ họa
+- Hardware /ˈhɑːdweə(r)/: Phần cứng
+- Software/ˈsɒftweə(r)/: phần mềm
+- Configuration /kənˌfɪɡəˈreɪʃn/: Cấu hình
+- Protocol /ˈprəʊtəkɒl/:  Giao thức
+- Technical /ˈteknɪkl/: Thuộc về kỹ thuật
+- Pinpoint /ˈpɪnpɔɪnt/: Chỉ ra một cách chính xác
+- Ferrite ring (n) Vòng nhiễm từ
+- Abbreviation/əˌbriːviˈeɪʃn/: sự tóm tắt, rút gọn
+- Analysis /əˈnæləsɪs/: phân tích
+- Appliance /əˈplaɪəns/: thiết bị, máy móc
+- Application /ˌæplɪˈkeɪʃn/: ứng dụng
+- Arise /əˈraɪz/: xuất hiện, nảy sinh
+- Available /əˈveɪləbl/: dùng được, có hiệu lực
+- Background /ˈbækɡraʊnd/: bối cảnh, bổ trợ
+- Certification /ˌsɜːtɪfɪˈkeɪʃn/: giấy chứng nhận
+- Compatible /kəmˈpætəbl/: tương thích
+- consultant /kənˈsʌltənt/: cố vấn, chuyên viên tham vấn
+- Customer /ˈkʌstəmə(r)/: khách hàng
+- Database/ˈdeɪtəbeɪs/: cơ sở dữ liệu
+- Deal /diːl/: giao dịch
+- Demand /dɪˈmɑːnd/: yêu cầu
+- Detailed /ˈdiːteɪld/: chi tiết
+- Develop /dɪˈveləp/: phát triển
+- Drawback /ˈdrɔːbæk/: trở ngại, hạn chế
+- Effective /ɪˈfektɪv/: có hiệu lực
+- Efficient/ɪˈfɪʃnt/: có hiệu suất cao
+- Employ /ɪmˈplɔɪ/: thuê ai làm gì
+- Enterprise /ˈentəpraɪz/: tập đoàn, công ty
+- Environment /ɪnˈvaɪrənmənt/: môi trường
+- Equipment /ɪˈkwɪpmənt/: thiết bị
+- Expertise/ˌekspɜːˈtiːz/: thành thạo, tinh thông
+- Eyestrain: mỏi mắt
+- Goal /ɡəʊl/: mục tiêu
+- Gadget /ˈɡædʒɪt/: đồ phụ tùng nhỏ
+- Implement /ˈɪmplɪment/: công cụ, phương tiện
+- Increase /ɪnˈkriːs/: sự tăng thêm, tăng lên
+- Install /ɪnˈstɔːl/: cài đặt
+- Instruction /ɪnˈstrʌkʃn/: chỉ thị, chỉ dẫn
+- Insurance /ɪnˈʃʊərəns/: bảo hiểm
+- Integrate /ˈɪntɪɡreɪt/: hợp nhất, sáp nhập
+- Intranet/ˈɪntrənet/: mạng nội bộ
+- Latest /ˈleɪtɪst/: mới nhất
+- Leadership/ˈliːdəʃɪp/: lãnh đạo
+- Level with someone (verb): thành thật
+- Low /ləʊ/: yếu, chậm
+- Maintain /meɪnˈteɪn/: duy trì
+- Matrix /ˈmeɪtrɪks/: ma trận
+- Monitor /ˈmɒnɪtə(r)/ : giám sát
+- Negotiate /nɪˈɡəʊʃieɪt/: thương lượng
+- Occur /əˈkɜː(r)/: xảy ra, xảy đến
+- Order /ˈɔːdə(r)/: yêu cầu
+- Oversee /ˌəʊvəˈsiː/: quan sát
+- Prevail /prɪˈveɪl/: thịnh hành, phổ biến
+- Process /ˈprəʊses/: quá trình, tiến triển
+- Provide /prəˈvaɪd/: cung cấp
+- Rapid /ˈræpɪd/: nhanh chóng
+- Remote /rɪˈməʊt/: từ xa
+- Replace /rɪˈpleɪs/: thay thế
+- Research /rɪˈsɜːtʃ/: nghiên cứu
+- Resource /rɪˈsɔːs/: nguồn
+- Respond /rɪˈspɒnd/: phản hồi

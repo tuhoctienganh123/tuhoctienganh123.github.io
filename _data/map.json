@@ -7,9 +7,9 @@
       },
 
       {
-         "id"    : "grammar",
-         "url"   : "/grammar/",
-         "title" : "Ngữ Pháp"
+         "id"    : "lessons",
+         "url"   : "/lessons/",
+         "title" : "Bài Học"
       },
 
       {

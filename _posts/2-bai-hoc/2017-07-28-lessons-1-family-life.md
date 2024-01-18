@@ -62,8 +62,6 @@ Trước khi bắt đầu bài học, bạn hãy tải về tệp từ vựng t�
 
 ### 1. Ngữ âm
 
-/br/, /kr/, và /tr/
-
 Nghe Google Translate đọc và nhắc lại. Chú ý vào các phụ âm /br/, /kr/, và /tr/.
 
 - /br/ breadwinner, breakfast, brown
@@ -100,7 +98,7 @@ Các từ:
 
 ### 3. Ngữ pháp
 
-**Thì hiện tại đơn: S + V (s/es)**
+**Thì hiện tại đơn: Chủ ngữ + Động từ (s/es)**
 
 Thì hiện tại đơn được sử dụng để nói về những thói quen hoặc những công việc mà chúng ta làm thường xuyên.
 
@@ -108,7 +106,7 @@ Ví dụ: My mother cooks everyday.
 
 Động từ trong thì hiện tại đơn được giữ ở dạng nguyên thể nếu chủ ngữ là I, you, they, hoặc số nhiều. Trong trường hợp chủ ngữ là ngôi thứ ba số ít thì động từ sẽ được thêm đuôi "s", hoặc "es" nếu động từ kết thúc bởi nguyên âm (a, e, i, o, u).
 
-**Thì hiện tại tiếp diễn: S + be + V-ing**
+**Thì hiện tại tiếp diễn: Chủ ngữ + be + Động từ (ing)**
 
 Thì hiện tại tiếp diễn được sử dụng để nói về những gì đang diễn ra tại thời điểm nói.
 
